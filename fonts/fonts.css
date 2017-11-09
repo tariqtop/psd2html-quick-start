@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'garamondbold';
+    src: url('garamondbold.eot');
+    src: url('garamondbold.eot') format('embedded-opentype'),
+         url('garamondbold.woff2') format('woff2'),
+         url('garamondbold.woff') format('woff'),
+         url('garamondbold.ttf') format('truetype'),
+         url('garamondbold.svg#garamondbold') format('svg');
+}
+@font-face {
+    font-family: 'abelregular';
+    src: url('abelregular.eot');
+    src: url('abelregular.eot') format('embedded-opentype'),
+         url('abelregular.woff2') format('woff2'),
+         url('abelregular.woff') format('woff'),
+         url('abelregular.ttf') format('truetype'),
+         url('abelregular.svg#abelregular') format('svg');
+}
+@font-face {
+    font-family: 'avianbold';
+    src: url('avianbold.eot');
+    src: url('avianbold.eot') format('embedded-opentype'),
+         url('avianbold.woff2') format('woff2'),
+         url('avianbold.woff') format('woff'),
+         url('avianbold.ttf') format('truetype'),
+         url('avianbold.svg#avianbold') format('svg');
+}
+@font-face {
+    font-family: 'avianregular';
+    src: url('avianregular.eot');
+    src: url('avianregular.eot') format('embedded-opentype'),
+         url('avianregular.woff2') format('woff2'),
+         url('avianregular.woff') format('woff'),
+         url('avianregular.ttf') format('truetype'),
+         url('avianregular.svg#avianregular') format('svg');
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('Helvetica.eot');
+    src: url('Helvetica.eot') format('embedded-opentype'),
+         url('Helvetica.woff2') format('woff2'),
+         url('Helvetica.woff') format('woff'),
+         url('Helvetica.ttf') format('truetype'),
+         url('Helvetica.svg#Helvetica') format('svg');
+}
