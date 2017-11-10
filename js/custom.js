@@ -15,6 +15,8 @@
       transitionStyle:"fade"
     });
 
+    // Menu 
+    $('#menu').slicknav();
 
     // Back top
     if ($('#back-to-top').length) {
